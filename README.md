@@ -1,2 +1,4 @@
-# projetobarbeariaalura.github.io
-Primeiro projeto de página web do curso FrontEnd - Alura
+# Site Barbearia Alura
+Projeto final no curso de HTML5 e CSS3 da ALura.
+Contrução de site com 3 páginas (Home/Produtos/Contato)
+utilizando desing responsivo.
