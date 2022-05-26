@@ -1,4 +1,4 @@
-https://rubensbz.github.io/ProjetoAlura_Abril22/
+https://rubensbz.github.io/barbershopWebsite/
 # Meu primeiro site.
 Site Barbearia Alura
 Projeto final no curso de HTML5 e CSS3 da ALura.
